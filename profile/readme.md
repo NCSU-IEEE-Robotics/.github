@@ -10,7 +10,7 @@ Each year, we build an autonomous robot to compete in the [IEEE SoutheastCon Har
 ### We have three subteams
 * **Electrical** - This group develops circuit boards, sensors, transducers, and low level firmware for the robot. We use [PlatformIO](https://platformio.org/), the [Arduino IDE](https://www.arduino.cc/en/software), and other specialized tools to develop low level C/C++ code for various microcontroller platforms. We use [KiCAD](https://www.kicad.org/) for our schematic and PCB layout needs. If you love embedded systems, this one's for you
 * **Hardware** - Charged with designing and building all the structural components of our bot, these folks do everything from CAD simulations to 3D printed parts and metalwork. The hardware subteam also updates our robot's test course each year to match SoutheastCon standards. We do our CAD work in [SolidWorks](https://www.solidworks.com/)
-* **Software** - The brains of the bot; this subteam controls all things autonomouse, maintaining the [ROS(Robot Operating System)](https://www.ros.org/) core that processes sensor data and drives the robot. If you love strategizing, optimizing, and developing complex subroutines for robot systems, you'll fit right in here!
+* **Software** - The brains of the bot; this subteam controls all things autonomous, maintaining the ROS [(Robot Operating System)](https://www.ros.org/) core that processes sensor data and drives the robot. If you love strategizing, optimizing, and developing complex subroutines for robot systems, you'll fit right in here!
 
 
 # Join Us
