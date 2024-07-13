@@ -3,7 +3,7 @@ Welcome to the Github organization for our robotics team! We operate within the 
 
 Each year, we build an autonomous robot to compete in the [IEEE SoutheastCon Hardware Competition](https://ieeesoutheastcon.org/student-competitions/). The Robotics theme for 2024-2025 is Mining Mayhem.
 
-> **[What is Mining Mayhem?](https://youtu.be/E4D38Sqh8mc?si=1XJk3j9jjeHyAKys)**
+### [What is Mining Mayhem?](https://youtu.be/E4D38Sqh8mc?si=1XJk3j9jjeHyAKys)
 > 
 > The year is 2047. After GRID successfully deflected asteroids from comet 2047-5-L1, it was discovered that they contained valuable materials, Geodinium and Nebulite. Your team’s rover is recruited to quickly collect these Astral Materials before the asteroids sail off into space, never to be seen again. Your robot touches down with T-3 minutes till the point of no return, so you have to collect as many astral materials as possible, put them into cosmic shipping containers, and bring them to the rendezvous pad communicated from the telemetry. There are also reports of a strange geographical feature like a cave… With the amazing materials your robot collects, the world will be able to build new technologies never seen before!
 
