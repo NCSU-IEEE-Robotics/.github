@@ -35,13 +35,16 @@ Before you get started, [please take a look at our Wiki](https://github.com/NCSU
 
 ## Github Maintainers
 ### Current Members
-* Cliff L. - Robotics Team Lead - Wiki Pages, Organization
-* [Will S.](https://github.com/orgs/IEEE-WAR/people/WillsThingsNC) - Electrical Subteam Lead - Wiki Pages, Embedded Systems Projects, Repo tidying
-* Chris C. - Hardware Subteam Lead - Wiki pages, Hardware Projects, 3D Printing
+* Cliff L. - Robotics Team Lead
+  - Maintaining: Wiki Pages, Organization
+* [Will S.](https://github.com/WillsThingsNC) - Electrical Subteam Lead
+  - Maintaining: Wiki Pages, Embedded Systems Projects, Repo tidying
+* Chris C. - Hardware Subteam Lead
+  - Maintaining: Wiki pages, Hardware Projects, 3D Printing
 * Adam D. - Software Subteam Lead - Wiki Pages, Software Projects, ROS
-* TODO
+  - Maintaining: Wiki Pages, Software Projects, ROS
 
-### Past Members
+### Former Members
 * TODO
 
   
