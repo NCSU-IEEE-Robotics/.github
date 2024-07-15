@@ -16,6 +16,9 @@ The Robotics theme for 2024-2025 is Mining Mayhem.<br>
 <br>
 
 # Join Us
+We always welcome new members of *any background;* we'll help you learn whatever you want or need to know and don't expect you to have any experience or be an ECE student to participate. <br>
+And don't require any applications or heavy time commitments; your classes come first, and we're here to have fun after!
+
 You can join our club and view our organization roster via the **[NCSU Get Involved portal](https://getinvolved.ncsu.edu/organization/ieee)** 
 
 Be sure to join our **[Discord server!](https://discord.gg/w67fRx7bdP)** It's our main hub of communication
