@@ -10,16 +10,16 @@ The Robotics theme for 2024-2025 is Mining Mayhem.<br>
 
 ### We have three subteams
 * **Electrical** - This group develops circuit boards, sensors, transducers, and low level firmware for the robot. We use [PlatformIO](https://platformio.org/), the [Arduino IDE](https://www.arduino.cc/en/software), and other specialized tools to develop low level C/C++ code for various microcontroller platforms. We use [KiCAD](https://www.kicad.org/) for our schematic and PCB layout needs. If you love embedded systems, this one's for you
-* **Hardware** - Charged with designing and building all the structural components of our bot, these folks do everything from CAD simulations to 3D printed parts and metalwork. The hardware subteam also updates our robot's test course each year to match SoutheastCon standards. We do our CAD work in [SolidWorks](https://www.solidworks.com/)
+* **Hardware** - Charged with designing and building all the structural components of our bot, these folks do everything from CAD simulations to 3D printed parts and metalwork. We do our CAD work in [SolidWorks](https://www.solidworks.com/)
 * **Software** - The brains of the bot; this subteam controls all things autonomous, maintaining the ROS [(Robot Operating System)](https://www.ros.org/) core that processes sensor data and drives the robot. If you love strategizing, optimizing, and developing complex subroutines for robot systems, you'll fit right in here!
 
 <br>
 
 # Join Us
 We always welcome new members of *any background;* we'll help you learn whatever you want or need to know and don't expect you to have any experience or be an ECE student to participate. <br>
-And don't require any applications or heavy time commitments; your classes come first, and we're here to have fun after!
+There are no applications or heavy time commitments; your classes come first, and we're here to have fun after!
 
-You can join our club and view our organization roster via the **[NCSU Get Involved portal](https://getinvolved.ncsu.edu/organization/ieee)** 
+You can join our club and view the organization roster via the **[NCSU Get Involved portal](https://getinvolved.ncsu.edu/organization/ieee)** 
 
 Be sure to join our **[Discord server!](https://discord.gg/w67fRx7bdP)** It's our main hub of communication
 
